@@ -1,5 +1,0 @@
-Fname  = input("Firstname : ")
-Lname  = input("Lastname : ")
-print( "Your Fullname is : " + Fname + " " + Lname)
-a = float(input("Enter a number : "))
-print(a*2)
